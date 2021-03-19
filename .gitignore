@@ -1,4 +1,4 @@
 # Project exclude paths
-/javaCore/target/
-/oop/target/
-/solid/target/
+/**/target/
+/.idea/**
+**.iml

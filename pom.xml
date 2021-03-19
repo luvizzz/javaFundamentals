@@ -12,6 +12,7 @@
         <module>solid</module>
         <module>oop</module>
         <module>javaCore</module>
+        <module>paterns</module>
     </modules>
 
     <properties>
