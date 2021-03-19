@@ -27,6 +27,7 @@ public class CreationalExamples {
     }
 
     public static void builderExample() {
+
         System.out.println("| Builder example |");
 
         Person myCompleteFriend = new Person.Builder("John")
